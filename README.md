@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**JohnPollock/JohnPollock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a longtime developer and technical writer who’s been building and breaking things on the web since the mid-'90s. Back in the day, I ran PageResource.com and JavaScriptCity.com, which aimed to help folks get started with web development for free.
 
-Here are some ideas to get you started:
+I’ve written a couple of programming books—JavaScript: A Beginner's Guide and jQuery: A Beginner's Guide—and spent time coding and writing for both the state government and a medical software company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These days I work mostly with what some call the WENP stack (though there doesn't appear to be an established name for it at this time): Windows, Express, Node.js, and PostgreSQL. 
+
+Overall, I have experience with:
+
+* JavaScript, HTML, CSS, Perl, PHP, Python
+* Node.js, Express
+* MySQL, PostgreSQL
+* Apache, Windows, Linux
+* Technical Writing (mainly instructions, documentation, and user manuals)
+
+Always up for solving problems, learning something new, or revisiting old-school tech with fresh eyes. If you're into clean code, clear docs, or just geeking out over web history, we’ll probably get along!
